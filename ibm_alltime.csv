@@ -11,3 +11,4 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 2,Add Two Numbers,33.9%,Medium,0.010507388732168088, https://leetcode.com/problems/add-two-numbers
 53,Maximum Subarray,46.5%,Easy,0.002167082872150794, https://leetcode.com/problems/maximum-subarray
 1355,Activity Participants,69.4%,Medium,0, https://leetcode.com/problems/activity-participants
+941,Valid Mountain Array,69.4%,Medium,-, https://leetcode.com/problems/valid-mountain-array/description/
